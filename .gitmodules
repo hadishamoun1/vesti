@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/hadishamoun1/vesti-backend.git
+[submodule "app"]
+	path = app
+	url = https://github.com/hadishamoun1/vesti-app.git
