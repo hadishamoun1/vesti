@@ -84,7 +84,7 @@
 |                      Landing screen                      |                            Nearby stores screen                            |
 |    <img src="readme/images/home.png" width="400px" />    |            <img src="readme/images/nearby.png" width="400px" />            |
 |                 AI Search Engine screen                  |                          AI Demo Animation Screen                          |
-| <img src="./readme/images/aisearch.png" width="400px" /> | <img src="./readme/gifs/originalvideo-ezgif.com-crop.gif" width="300px" /> |
+| <img src="./readme/images/aisearch.png" width="400px" /> | <img src="./readme/gifs/originalvideo-ezgif.com-crop.gif" width="350px" /> |
 |                      Profile Screen                      |                                Order Screen                                |
 |  <img src="readme/images/profile.png" width="400px" />   |        <img src="./readme/images/orderhistory.png" width="400px" />        |
 |                       Cart Screen                        |                               Payment Screen                               |
