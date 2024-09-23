@@ -50,7 +50,7 @@
 
 > We designed Vesti using wireframes, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
 
-- Project Figma design [figma](https://www.figma.com/design/IV03weUBysFlCVYp1xjnIF/Untitled?node-id=0-1&node-type=canvas&t=xaNgsgUaaCiIkGG7-0)
+- Project Figma design [figma](https://www.figma.com/design/IV03weUBysFlCVYp1xjnIF/Untitled?node-id=0-1&node-type=canvas&t=afhS00O8y2mSFJD4-0)
 
 ### Mockups
 
@@ -60,7 +60,7 @@
 |               Create Store screen                |
 |   ![fsdaf](./readme/images/createstore-ui.png)   |
 |                 Discounts Screen                 |
-|    ![fsdaf](./readme/images/discounts-ui.png)    |
+|       ![fsdaf](./readme/images/Frame.png)        |
 
 <br><br>
 
