@@ -54,9 +54,9 @@
 
 ### Mockups
 
-| Home screen                             | Menu Screen                           | Order Screen                          |
-| --------------------------------------- | ------------------------------------- | ------------------------------------- |
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| Create Product screen                            | Create Store screen                          | Discounts Screen                          |
+| ------------------------------------------------ | -------------------------------------------- | ----------------------------------------- |
+| ![Landing](./readme/images/createproduct-ui.png) | ![fsdaf](./readme/images/createstore-ui.png) | ![fsdaf](./readme/images/discounts-ui.png) |
 
 <br><br>
 
