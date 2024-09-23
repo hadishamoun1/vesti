@@ -84,7 +84,7 @@
 |             Landing screen             |                            Nearby stores screen                            |
 |   ![Landing](readme/images/home.png)   |                     ![fsdaf](readme/images/nearby.png)                     |
 |        AI Search Engine screen         |                          AI Demo Animation Screen                          |
-| ![fsdaf](./readme/images/aisearch.png) | <img src="./readme/gifs/originalvideo-ezgif.com-crop.gif" higth="200px" /> |
+| ![fsdaf](./readme/images/aisearch.png) | <img src="./readme/gifs/originalvideo-ezgif.com-crop.gif" higth="400px" /> |
 |             Profile Screen             |                                Order Screen                                |
 | ![fsdaf](./readme/images/profile.png)  |                 ![fsdaf](./readme/images/orderhistory.png)                 |
 |              Cart Screen               |                               Payment Screen                               |
