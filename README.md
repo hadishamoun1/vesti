@@ -54,9 +54,13 @@
 
 ### Mockups
 
-| Create Product screen                            | Create Store screen                          | Discounts Screen                          |
-| ------------------------------------------------ | -------------------------------------------- | ----------------------------------------- |
-| ![Landing](./readme/images/createproduct-ui.png) | ![fsdaf](./readme/images/createstore-ui.png) | ![fsdaf](./readme/images/discounts-ui.png) |
+|              Create Product screen               |
+| :----------------------------------------------: |
+| ![Landing](./readme/images/createproduct-ui.png) |
+|               Create Store screen                |
+|   ![fsdaf](./readme/images/createstore-ui.png)   |
+|                 Discounts Screen                 |
+|    ![fsdaf](./readme/images/discounts-ui.png)    |
 
 <br><br>
 
