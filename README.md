@@ -58,9 +58,9 @@
 | :----------------------------------------------: |
 | ![Landing](./readme/images/createproduct-ui.png) |
 |               Create Store screen                |
-|   ![fsdaf](./readme/images/createstore-ui.png)   |
-|                 Discounts Screen                 |
 |       ![fsdaf](./readme/images/Frame.png)        |
+|                 Discounts Screen                 |
+|    ![fsdaf](./readme/images/discounts-ui.png)    |
 
 <br><br>
 
