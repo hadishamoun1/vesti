@@ -90,21 +90,21 @@
 
 ### Stores Screens (Web)
 
-|                                Login screen                                 |
-| :-------------------------------------------------------------------------: |
-|                  ![Landing](./readme/images/login-web.png)                  |
-|                                Signup screen                                |
-|                  ![fsdaf](./readme/images/signup-web.png)                   |
-|                               Demo Animation                                |
-| <img src="./readme/gifs/loading-screen-ezgif.com-crop.gif" width="400px" /> |
-|                              Edit Store screen                              |
-|                  ![Landing](./readme/images/editstore.png)                  |
-|                              View Store screen                              |
-|                   ![fsdaf](./readme/images/viewstore.png)                   |
-|                             Add Products Screen                             |
-|                  ![fsdaf](./readme/images/addproduct.png)                   |
-|                              Discounts Screen                               |
-|                   ![fsdaf](./readme/images/discounts.png)                   |
+|                                 Login screen                                 |
+| :--------------------------------------------------------------------------: |
+|                  ![Landing](./readme/images/login-web.png)                   |
+|                                Signup screen                                 |
+|                   ![fsdaf](./readme/images/signup-web.png)                   |
+|                                Demo Animation                                |
+| <img src="./readme/gifs/loading-screen-ezgif.com-crop.gif" width="1000px" /> |
+|                              Edit Store screen                               |
+|                  ![Landing](./readme/images/editstore.png)                   |
+|                              View Store screen                               |
+|                   ![fsdaf](./readme/images/viewstore.png)                    |
+|                             Add Products Screen                              |
+|                   ![fsdaf](./readme/images/addproduct.png)                   |
+|                               Discounts Screen                               |
+|                   ![fsdaf](./readme/images/discounts.png)                    |
 
 <br><br>
 
