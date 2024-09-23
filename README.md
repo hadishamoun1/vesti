@@ -78,17 +78,17 @@
 
 ### User Screens (Mobile)
 
-|              Login screen              |                              Register screen                               |
-| :------------------------------------: | :------------------------------------------------------------------------: |
-|  ![Landing](readme/images/login.png)   |                     ![fsdaf](readme/images/signup.png)                     |
-|             Landing screen             |                            Nearby stores screen                            |
-|   ![Landing](readme/images/home.png)   |                     ![fsdaf](readme/images/nearby.png)                     |
-|        AI Search Engine screen         |                          AI Demo Animation Screen                          |
-| ![fsdaf](./readme/images/aisearch.png) | <img src="./readme/gifs/originalvideo-ezgif.com-crop.gif" width="400px" /> |
-|             Profile Screen             |                                Order Screen                                |
-| ![fsdaf](./readme/images/profile.png)  |                 ![fsdaf](./readme/images/orderhistory.png)                 |
-|              Cart Screen               |                               Payment Screen                               |
-|   ![fsdaf](./readme/images/cart.png)   |                   ![fsdaf](./readme/images/payment.png)                    |
+|                       Login screen                       |                              Register screen                               |
+| :------------------------------------------------------: | :------------------------------------------------------------------------: |
+|   <img src="readme/images/login.png" width="400px" />    |            <img src="readme/images/signup.png" width="400px" />            |
+|                      Landing screen                      |                            Nearby stores screen                            |
+|    <img src="readme/images/home.png" width="400px" />    |            <img src="readme/images/nearby.png" width="400px" />            |
+|                 AI Search Engine screen                  |                          AI Demo Animation Screen                          |
+| <img src="./readme/images/aisearch.png" width="400px" /> | <img src="./readme/gifs/originalvideo-ezgif.com-crop.gif" width="400px" /> |
+|                      Profile Screen                      |                                Order Screen                                |
+|  <img src="readme/images/profile.png" width="400px" />   |        <img src="./readme/images/orderhistory.png" width="400px" />        |
+|                       Cart Screen                        |                               Payment Screen                               |
+|    <img src="readme/images/cart.png" width="400px" />    |           <img src="readme/images/payment.png" width="400px" />            |
 
 ### Stores Screens (Web)
 
