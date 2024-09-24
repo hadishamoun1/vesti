@@ -26,7 +26,7 @@
 - I want to be able to upload the store image, name, description and location.
 - I want to be able to upload products with image, price, description, colors, and sizes.
 - I want to be able to add discounts on products and view active and inactive discounts.
-- I want to be able to send notifications to customers ing=forming them of a discount.
+- I want to be able to send notifications to customers informing them of a discount.
 
 <br><br>
 
