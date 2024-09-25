@@ -13,7 +13,6 @@
 
 #### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As a User:
 
-
 - I want to receive automatic notifictions so that i can know if a store nearby is making any discounts.
 - I want to be able to upload an image and see similar products of it using ai search engine.
 - I want to choose from multiple payment options, including credit card, PayPal, and cash on delivery, so that I can pay in the most convenient way for me.
@@ -101,15 +100,6 @@
 |                  ![fsdaf](./readme/images/addproduct.png)                   |
 |                              Discounts Screen                               |
 |                   ![fsdaf](./readme/images/discounts.png)                   |
-
-<br><br>
-
-<!-- Prompt Engineering -->
-<img src="./readme/title7.svg"/>
-
-### Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
-
-- This project uses advanced prompt engineering techniques to optimize the interaction with natural language processing models. By skillfully crafting input instructions, we tailor the behavior of the models to achieve precise and efficient language understanding and generation for various tasks and preferences.
 
 <br><br>
 
