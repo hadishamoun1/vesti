@@ -135,7 +135,7 @@ This is an example of how to list things you need to use the software and how to
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Clone the repo
-   git clone [github](git clone --recurse-submodules https://github.com/hadishamoun1/vesti.git)
+   git clone --recurse-submodules https://github.com/hadishamoun1/vesti.git)
 2. Set up the backend:
 
 - Navigate to the backend directory:
@@ -160,26 +160,69 @@ _Below is an example of how you can instruct your audience on installing and set
   STRIPE_SECRET_KEY=your_stripe_secret_key_here
 
   ```
+
 - Initialize the PostgreSQL database:
-   ```sh
-   node syncDatabase.js
 
-   ```
+  ```sh
+  node syncDatabase.js
+
+  ```
+
 - Start the backend server:
-   ```sh
-   node server.js
 
-   ```
+  ```sh
+  node server.js
+
+  ```
+
 - Navigate to the python-services directory and run the FastAPI service:
 
-   ```sh
-   cd python-services
-   uvicorn main:app --reload
+  ```sh
+  cd python-services
+  uvicorn main:app --reload
 
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
-   ```
+  ```
 
-Now, you should be able to run Coffee Express locally and explore its features.
+3. Set up the Flutter app:
+
+- Navigate to the app directory:
+  ```sh
+  cd app
+  ```
+- Create a .env file and enter your API URLs:
+
+  ```sh
+  API_URL=http://your_ip_here:3000
+  PY_URL=http://10.0.2.2:8000
+  WS_URL=ws://your_ip_here:3000
+  STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key_here
+
+  ```
+
+- Install Flutter packages:
+
+  ```sh
+  flutter pub get
+
+  ```
+
+- Run the Flutter app:
+  ```sh
+  flutter run
+  ```
+
+4. Set up the React app:
+
+- Navigate to the frontend directory:
+  ```sh
+  cd frontend
+  ```
+- Install NPM packages:
+  ```sh
+  npm install
+  ```
+- Start the React app:
+  ```sh
+  npm start
+  ```
+  Now, you should be able to run Vesti locally and explore its features.
