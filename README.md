@@ -125,10 +125,6 @@ This is an example of how to list things you need to use the software and how to
 - **Flutter**: Latest version
 - **PostgreSQL**: Latest version
 - **npm**: Latest version
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
