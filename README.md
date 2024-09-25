@@ -121,7 +121,7 @@
 
 This is an example of how to list things you need to use the software and how to install them.
 
-- **Node.js**: v20.11.1
+- **Node.js**: Latest version
 - **Flutter**: Latest version
 - **PostgreSQL**: Latest version
 - **npm**: Latest version
@@ -134,12 +134,48 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [example](https://example.com)
-2. Clone the repo
-   git clone [github](https://github.com/your_username_/Project-Name.git)
-3. Install NPM packages
+1. Clone the repo
+   git clone [github](git clone --recurse-submodules https://github.com/hadishamoun1/vesti.git)
+2. Set up the backend:
+
+- Navigate to the backend directory:
+  ```sh
+  cd backend
+  ```
+- Install NPM packages:
+
+  ```sh
+  npm install
+  ```
+
+- Create a .env file and enter your database configuration:
+
+  ```sh
+  DB_NAME=database
+  DB_USER=postgres
+  DB_PASSWORD=your_password_here
+  DB_HOST=localhost
+  PORT=3000
+  SECRET_KEY=secret7063
+  STRIPE_SECRET_KEY=your_stripe_secret_key_here
+
+  ```
+- Initialize the PostgreSQL database:
    ```sh
-   npm install
+   node syncDatabase.js
+
+   ```
+- Start the backend server:
+   ```sh
+   node server.js
+
+   ```
+- Navigate to the python-services directory and run the FastAPI service:
+
+   ```sh
+   cd python-services
+   uvicorn main:app --reload
+
    ```
 4. Enter your API in `config.js`
    ```js
