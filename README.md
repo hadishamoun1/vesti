@@ -13,17 +13,13 @@
 
 #### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As a User:
 
-- I want to browse different categories of products, so that I can easily find items I am interested in.
+
 - I want to receive automatic notifictions so that i can know if a store nearby is making any discounts.
 - I want to be able to upload an image and see similar products of it using ai search engine.
-- I want to see personalized product recommendations, so that I can discover items that match my tastes and preferences.
-- I want to view detailed information about a product, including images, descriptions, sizes, so that I can make informed purchasing decisions.
-- I want to add products to my shopping cart, so that I can review my selections before purchasing.
 - I want to choose from multiple payment options, including credit card, PayPal, and cash on delivery, so that I can pay in the most convenient way for me.
 
 #### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As a Store:
 
-- I want to be able to upload the store image, name, description and location.
 - I want to be able to upload products with image, price, description, colors, and sizes.
 - I want to be able to add discounts on products and view active and inactive discounts.
 - I want to be able to send notifications to customers informing them of a discount.
@@ -114,15 +110,6 @@
 ### Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
 
 - This project uses advanced prompt engineering techniques to optimize the interaction with natural language processing models. By skillfully crafting input instructions, we tailor the behavior of the models to achieve precise and efficient language understanding and generation for various tasks and preferences.
-
-<br><br>
-
-<!-- AWS Deployment -->
-<img src="./readme/title8.svg"/>
-
-### Efficient AI Deployment: Unleashing the Potential with AWS Integration:
-
-- This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
 
 <br><br>
 
